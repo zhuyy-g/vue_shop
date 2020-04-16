@@ -8,6 +8,10 @@ body,
     min-width: 1366px;
 }
 
+.el-message-box {
+    display: none;
+}
+
 .el-breadcrumb {
     margin-bottom: 15px;
     font-size: 12px;
